@@ -1,0 +1,62 @@
+.fundo {
+    background-color: rgb(151, 151, 151); /* Cor de fundo */
+    color: white; /* Cor do texto */
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px; /* Adicionando um pouco de espaço em volta do texto */
+    border-bottom: 2px solid rgb(98, 0, 255); /* Adiciona um underline branco fino */
+}
+
+.titulo {
+    background-color: rgb(163, 163, 236); /* Cor de fundo */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px; /* Adicionando um pouco de espaço em volta do texto */
+    text-align: center;
+   
+}
+
+.vermelho {
+    color: red;  /* Define a cor vermelha para o texto */
+}
+
+.cor {
+    /*background-color: rgb(163, 163, 236); /* Cor de fundo */
+    color: rgb(255, 0, 0); /* Cor do texto */
+    /*font-size: 20px;
+    font-weight: bold;
+    padding: 10px; /* Adicionando um pouco de espaço em volta do texto 
+    /*text-align: center;
+   
+}
+
+/*.lista-esquerda {
+    text-align: left; /* Alinha o texto da lista à esquerda */
+}
+
+.sub {
+    /*background-color: rgb(163, 163, 236); /* Cor de fundo */
+    /*color: rgb(255, 255, 255); /* Cor do texto */
+    font-size: 12px;
+    /*font-weight: bold;
+    padding: 10px; /* Adicionando um pouco de espaço em volta do texto */
+    text-align: center;
+   
+}
+
+ul {
+    list-style-position: inside;  /* Garante que o marcador da lista fique dentro do bloco */
+    margin-left: 0;               /* Remove qualquer margem à esquerda */
+    padding-left: 0;              /* Remove qualquer padding à esquerda */
+}
+
+p {
+    /*background-color: rgb(163, 163, 236); /* Cor de fundo */
+    /*color: rgb(255, 255, 255); /* Cor do texto */
+    font-size: 12px;
+    /*font-weight: bold;
+    padding: 10px; /* Adicionando um pouco de espaço em volta do texto */
+    /*text-align: center;
+   
+}
